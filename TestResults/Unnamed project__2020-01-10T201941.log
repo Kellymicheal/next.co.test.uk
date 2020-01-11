@@ -1,0 +1,97 @@
+﻿2020-01-10T20:19:41.1064998+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-01-10T20:19:41.1064998+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.41 in Framework clr40 in x86 mode execution started
+2020-01-10T20:19:41.1064998+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\c# project\Next.Co.Test.Uk\packages\SpecRun.Runner.3.1.41\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-01-10T20:19:41.5368280+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\c# project\Next.Co.Test.Uk\Next.Co.Test.Uk\bin\Debug\Next.Co.Test.Uk.dll
+2020-01-10T20:19:41.5418214+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\c# project\Next.Co.Test.Uk\TestResults" (default)
+2020-01-10T20:19:41.5418214+00:00;VSTestExecutionThread;Info;Profile: 
+2020-01-10T20:19:41.7465011+00:00;VSTestExecutionThread;Info;Log file path: C:\c# project\Next.Co.Test.Uk\TestResults\Unnamed project__2020-01-10T201941.log
+2020-01-10T20:19:41.7984176+00:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-01-10T20:19:41.8353577+00:00;Thread#14;Info;Checking license
+2020-01-10T20:19:42.2696756+00:00;Thread#14;Info;Evaluation mode: test execution starts in 7 seconds... (this delay is removed in the registered version)
+2020-01-10T20:19:49.2721105+00:00;Thread#14;Info;Evaluation delay finished.
+2020-01-10T20:19:49.2980745+00:00;Thread#14;Info;License check completed
+2020-01-10T20:19:49.3000686+00:00;Thread#14;Info;starting test run
+2020-01-10T20:19:49.3839340+00:00;Thread#14;Info;Discovering target: Default
+2020-01-10T20:19:49.3839340+00:00;Thread#14;Info;Discovering tests from assembly: C:\c# project\Next.Co.Test.Uk\Next.Co.Test.Uk\bin\Debug\Next.Co.Test.Uk.dll
+2020-01-10T20:19:50.7198454+00:00;Thread#14;Info;Discovered tests from assembly: C:\c# project\Next.Co.Test.Uk\Next.Co.Test.Uk\bin\Debug\Next.Co.Test.Uk.dll
+2020-01-10T20:19:50.7228395+00:00:Test Suite Dump
+2020-01-10T20:19:50.7268295+00:00:#0: Unnamed project/ - 
+2020-01-10T20:19:50.7268295+00:00:#1: Default - 
+2020-01-10T20:19:50.7268295+00:00:#2: Next.Co.Test.Uk - 
+2020-01-10T20:19:50.7268295+00:00:#3: CustomerCanSearchForProductOfTheirChoice - 
+2020-01-10T20:19:50.8276730+00:00:#4: CustomerCanSearchForProductsOfTheirChoice', Men's wear - TestAssembly:Next.Co.Test.Uk/Feature:CustomerCanSearchForProductOfTheirChoice/Scenario:CustomerCanSearchForProductsOfTheirChoice%27%2c+Men%27s+wear
+2020-01-10T20:19:50.8276730+00:00:#5: CustomerCanSearchForProductsOfTheirChoice', ladie's wear - TestAssembly:Next.Co.Test.Uk/Feature:CustomerCanSearchForProductOfTheirChoice/Scenario:CustomerCanSearchForProductsOfTheirChoice%27%2c+ladie%27s+wear
+2020-01-10T20:19:50.8276730+00:00:End: Test Suite Dump
+2020-01-10T20:19:50.8905748+00:00:Thread#0:Scheduler: get next test for thread 0
+2020-01-10T20:19:50.8955658+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-01-10T20:19:50.8955658+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-01-10T20:19:50.9065483+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-10T20:19:50.9065483+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-01-10T20:19:50.9065483+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-01-10T20:19:50.9065483+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-01-10T20:19:50.9105470+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-01-10T20:19:50.9140566+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-10T20:19:50.9200516+00:00:Thread #0: creating new test thread executor for Next.Co.Test.Uk, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-01-10T20:19:50.9250395+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-01-10T20:19:50.9889407+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-01-10T20:19:50.9929337+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-01-10T20:19:52.6262525+00:00:Thread#0:T:-> Loading plugin C:\c# project\Next.Co.Test.Uk\Next.Co.Test.Uk\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-01-10T20:19:52.7021296+00:00:Thread#0:T:-> Using default config
+2020-01-10T20:19:54.9086041+00:00:Thread#0: Test #4/0 is started on thread #0
+2020-01-10T20:20:08.3003398+00:00:Thread#0:B:Given i navigate to next homepage
+2020-01-10T20:20:28.6463969+00:00:Thread#0:T:done: SearchStep.GivenINavigateToNextHomepage() (20.2s)
+2020-01-10T20:20:28.6493918+00:00:Thread#0:B:When i enter "Men's wear" of my choice
+2020-01-10T20:20:30.7500952+00:00:Thread#0:T:Element (id = 27e0fdaa-9a8d-48ec-a585-15bad5105969) is now retrieved
+2020-01-10T20:20:32.4713982+00:00:Thread#0:T:done: SearchStep.WhenIEnterOfMyChoice("Men's wear") (3.8s)
+2020-01-10T20:20:32.4733896+00:00:Thread#0:B:And click on submit button
+2020-01-10T20:20:32.5133267+00:00:Thread#0:T:Element (id = 92c06b47-58ef-4b6b-ba96-e1011adb9893) is now retrieved
+2020-01-10T20:20:51.2589629+00:00:Thread#0:T:done: SearchStep.WhenClickOnSubmitButton() (18.8s)
+2020-01-10T20:20:51.2609612+00:00:Thread#0:B:Then searching product page displayed.
+2020-01-10T20:20:51.2629611+00:00:Thread#0:T:done: SearchStep.ThenSearchingProductPageDisplayed_() (0.0s)
+2020-01-10T20:20:51.3118854+00:00:Thread#0:Scheduler: get next test for thread 0
+2020-01-10T20:20:51.3128779+00:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2020-01-10T20:20:51.3128779+00:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-01-10T20:20:51.3128779+00:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-10T20:20:51.3128779+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-01-10T20:20:51.3128779+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-01-10T20:20:51.3128779+00:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-01-10T20:20:51.3128779+00:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-01-10T20:20:51.3128779+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-10T20:20:59.8103978+00:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 64.8987998 seconds
+2020-01-10T20:20:59.8143902+00:00:Thread#0: Test #5/0 is started on thread #0
+2020-01-10T20:21:10.4597717+00:00:Thread#0:B:Given i navigate to next homepage
+2020-01-10T20:21:25.6908613+00:00:Thread#0:T:done: SearchStep.GivenINavigateToNextHomepage() (15.2s)
+2020-01-10T20:21:25.6908613+00:00:Thread#0:B:When i enter "ladie's wear" of my choice
+2020-01-10T20:21:28.2397177+00:00:Thread#0:T:Element (id = f946e1bc-fe7e-4fff-ac78-a95f32ea359e) is now retrieved
+2020-01-10T20:21:28.9146488+00:00:Thread#0:T:done: SearchStep.WhenIEnterOfMyChoice("ladie's wear") (3.2s)
+2020-01-10T20:21:28.9156533+00:00:Thread#0:B:And click on submit button
+2020-01-10T20:21:28.9755586+00:00:Thread#0:T:Element (id = 4313b878-0597-4eb9-bc5b-4ea586c5a1d0) is now retrieved
+2020-01-10T20:21:42.2648790+00:00:Thread#0:T:done: SearchStep.WhenClickOnSubmitButton() (13.3s)
+2020-01-10T20:21:42.2658788+00:00:Thread#0:B:Then searching product page displayed.
+2020-01-10T20:21:42.2658788+00:00:Thread#0:T:done: SearchStep.ThenSearchingProductPageDisplayed_() (0.0s)
+2020-01-10T20:21:42.2668786+00:00:Thread#0:Scheduler: get next test for thread 0
+2020-01-10T20:21:42.2668786+00:00:Thread#:Scheduler: at the end of normal test queue
+2020-01-10T20:21:42.2668786+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-01-10T20:21:42.2668786+00:00:Thread#0:Scheduler: No more tests for thread
+2020-01-10T20:21:45.3944771+00:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 45.5800869 seconds
+2020-01-10T20:21:45.4803421+00:00:Trying to cancel thread
+2020-01-10T20:21:45.4813414+00:00:Thread cancelled
+2020-01-10T20:21:45.5062978+00:00:Thread#-1:Scheduler: get next test for thread -1
+2020-01-10T20:21:45.5062978+00:00:Thread#:Scheduler: at the end of normal test queue
+2020-01-10T20:21:45.5072976+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-01-10T20:21:45.5122888+00:00;Thread#14;Info;test run finished
+2020-01-10T20:21:45.5132890+00:00;Thread#14;Info;publishing test results
+2020-01-10T20:21:45.8079734+00:00;Thread#14;Info;test results published
+2020-01-10T20:21:45.8079734+00:00;Thread#14;Info;generating reports
+2020-01-10T20:21:46.2264285+00:00;Thread#14;Info;Starting external report generation process
+2020-01-10T20:21:52.9928711+00:00;Thread#14;Info;Successfully generated reports.
+2020-01-10T20:21:52.9978632+00:00;Thread#14;Info;Successfully generated reports
+2020-01-10T20:21:53.0228231+00:00:Total: 2
+2020-01-10T20:21:53.0298116+00:00:Succeeded: 2
+2020-01-10T20:21:53.0308096+00:00:Ignored: 0
+2020-01-10T20:21:53.0328085+00:00:Pending: 0
+2020-01-10T20:21:53.0328085+00:00:Skipped: 0
+2020-01-10T20:21:53.0338070+00:00:Failed: 0
+2020-01-10T20:21:53.0687479+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-01-10T20:21:53.0697506+00:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\c# project\Next.Co.Test.Uk\TestResults\Unnamed project__2020-01-10T201941.html'
+========== End of log file ==========

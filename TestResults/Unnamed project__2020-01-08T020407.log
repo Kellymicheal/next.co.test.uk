@@ -1,0 +1,133 @@
+﻿2020-01-08T02:04:07.4744298+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-01-08T02:04:07.4744298+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.41 in Framework clr40 in x86 mode execution started
+2020-01-08T02:04:07.4744298+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\c# project\Next.Co.Test.Uk\packages\SpecRun.Runner.3.1.41\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-01-08T02:04:07.5742755+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\c# project\Next.Co.Test.Uk\Next.Co.Test.Uk\bin\Debug\Next.Co.Test.Uk.dll
+2020-01-08T02:04:07.5752724+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\c# project\Next.Co.Test.Uk\TestResults" (default)
+2020-01-08T02:04:07.5752724+00:00;VSTestExecutionThread;Info;Profile: 
+2020-01-08T02:04:07.6431615+00:00;VSTestExecutionThread;Info;Log file path: C:\c# project\Next.Co.Test.Uk\TestResults\Unnamed project__2020-01-08T020407.log
+2020-01-08T02:04:07.6751125+00:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-01-08T02:04:07.6920846+00:00;Thread#13;Info;Checking license
+2020-01-08T02:04:07.7430078+00:00;Thread#13;Info;Evaluation mode: test execution starts in 7 seconds... (this delay is removed in the registered version)
+2020-01-08T02:04:14.7442961+00:00;Thread#13;Info;Evaluation delay finished.
+2020-01-08T02:04:14.7612699+00:00;Thread#13;Info;License check completed
+2020-01-08T02:04:14.7612699+00:00;Thread#13;Info;starting test run
+2020-01-08T02:04:14.7892237+00:00;Thread#13;Info;Discovering target: Default
+2020-01-08T02:04:14.7902228+00:00;Thread#13;Info;Discovering tests from assembly: C:\c# project\Next.Co.Test.Uk\Next.Co.Test.Uk\bin\Debug\Next.Co.Test.Uk.dll
+2020-01-08T02:04:15.6997968+00:00;Thread#13;Info;Discovered tests from assembly: C:\c# project\Next.Co.Test.Uk\Next.Co.Test.Uk\bin\Debug\Next.Co.Test.Uk.dll
+2020-01-08T02:04:15.7037924+00:00:Test Suite Dump
+2020-01-08T02:04:15.7077850+00:00:#0: Unnamed project/ - 
+2020-01-08T02:04:15.7077850+00:00:#1: Default - 
+2020-01-08T02:04:15.7077850+00:00:#2: Next.Co.Test.Uk - 
+2020-01-08T02:04:15.7077850+00:00:#3: CustomerCanSearchForProductOfTheirChoice - 
+2020-01-08T02:04:15.8016344+00:00:#4: CustomerCanSearchForProductsOfTheirChoice', Men's wear - TestAssembly:Next.Co.Test.Uk/Feature:CustomerCanSearchForProductOfTheirChoice/Scenario:CustomerCanSearchForProductsOfTheirChoice%27%2c+Men%27s+wear
+2020-01-08T02:04:15.8016344+00:00:#5: CustomerCanSearchForProductsOfTheirChoice', ladie's wear - TestAssembly:Next.Co.Test.Uk/Feature:CustomerCanSearchForProductOfTheirChoice/Scenario:CustomerCanSearchForProductsOfTheirChoice%27%2c+ladie%27s+wear
+2020-01-08T02:04:15.8016344+00:00:End: Test Suite Dump
+2020-01-08T02:04:15.8575504+00:00:Thread#0:Scheduler: get next test for thread 0
+2020-01-08T02:04:15.8625413+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-01-08T02:04:15.8635384+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-01-08T02:04:15.8745198+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-08T02:04:15.8745198+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-01-08T02:04:15.8745198+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-01-08T02:04:15.8745198+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-01-08T02:04:15.8775171+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-01-08T02:04:15.8805107+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-08T02:04:15.8865009+00:00:Thread #0: creating new test thread executor for Next.Co.Test.Uk, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-01-08T02:04:15.8914939+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-01-08T02:04:15.8984834+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-01-08T02:04:15.9024760+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-01-08T02:04:16.4818152+00:00:Thread#0:T:-> Loading plugin C:\c# project\Next.Co.Test.Uk\Next.Co.Test.Uk\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-01-08T02:04:16.4997841+00:00:Thread#0:T:-> Using default config
+2020-01-08T02:04:17.7928519+00:00:Thread#0: Test #4/0 is started on thread #0
+2020-01-08T02:04:29.1142870+00:00:Thread#0:B:Given i navigate to next homepage
+2020-01-08T02:04:42.2739430+00:00:Thread#0:T:done: SearchStep.GivenINavigateToNextHomepage() (13.1s)
+2020-01-08T02:04:42.2769387+00:00:Thread#0:B:When i enter <"Products"> of my choice
+2020-01-08T02:04:42.9289164+00:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-01-08T02:04:42.9289164+00:00:Thread#0:T:        [When(@"i enter (.*) of my choice")]
+2020-01-08T02:04:42.9299173+00:00:Thread#0:T:        public void WhenIEnterOfMyChoice(string p0)
+2020-01-08T02:04:42.9299173+00:00:Thread#0:T:        {
+2020-01-08T02:04:42.9299173+00:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-01-08T02:04:42.9309150+00:00:Thread#0:T:        }
+2020-01-08T02:04:42.9329058+00:00:Thread#0:B:And click on submit button
+2020-01-08T02:04:42.9448920+00:00:Thread#0:T:skipped because of previous errors
+2020-01-08T02:04:42.9478874+00:00:Thread#0:B:Then searching product page displayed.
+2020-01-08T02:04:42.9478874+00:00:Thread#0:T:skipped because of previous errors
+2020-01-08T02:04:43.5609205+00:00:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2020-01-08T02:04:43.5619187+00:00:Thread#0:T:using System;
+2020-01-08T02:04:43.5619187+00:00:Thread#0:T:using TechTalk.SpecFlow;
+2020-01-08T02:04:43.5619187+00:00:Thread#0:T:namespace MyNamespace
+2020-01-08T02:04:43.5619187+00:00:Thread#0:T:{
+2020-01-08T02:04:43.5629174+00:00:Thread#0:T:    [Binding]
+2020-01-08T02:04:43.5629174+00:00:Thread#0:T:    public class StepDefinitions
+2020-01-08T02:04:43.5629174+00:00:Thread#0:T:    {
+2020-01-08T02:04:43.5639157+00:00:Thread#0:T:        [When(@"i enter (.*) of my choice")]
+2020-01-08T02:04:43.5639157+00:00:Thread#0:T:        public void WhenIEnterOfMyChoice(string p0)
+2020-01-08T02:04:43.5639157+00:00:Thread#0:T:        {
+2020-01-08T02:04:43.5639157+00:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-01-08T02:04:43.5649154+00:00:Thread#0:T:        }
+2020-01-08T02:04:43.5649154+00:00:Thread#0:T:    }
+2020-01-08T02:04:43.5649154+00:00:Thread#0:T:}
+2020-01-08T02:04:43.6088548+00:00:Thread#0:Scheduler: get next test for thread 0
+2020-01-08T02:04:43.6088548+00:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2020-01-08T02:04:43.6088548+00:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-01-08T02:04:43.6088548+00:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-08T02:04:43.6088548+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-01-08T02:04:43.6088548+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-01-08T02:04:43.6088548+00:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-01-08T02:04:43.6088548+00:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-01-08T02:04:43.6088548+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-08T02:04:49.2673724+00:00:Thread#0: Test #4/0 is finished on thread #0 as Pending within 31.4725218 seconds
+2020-01-08T02:04:49.2713608+00:00:Thread#0: Test #5/0 is started on thread #0
+2020-01-08T02:04:59.7595719+00:00:Thread#0:B:Given i navigate to next homepage
+2020-01-08T02:05:13.3346685+00:00:Thread#0:T:done: SearchStep.GivenINavigateToNextHomepage() (13.6s)
+2020-01-08T02:05:13.3356689+00:00:Thread#0:B:When i enter <"Products"> of my choice
+2020-01-08T02:05:13.3436578+00:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-01-08T02:05:13.3436578+00:00:Thread#0:T:        [When(@"i enter (.*) of my choice")]
+2020-01-08T02:05:13.3446559+00:00:Thread#0:T:        public void WhenIEnterOfMyChoice(string p0)
+2020-01-08T02:05:13.3446559+00:00:Thread#0:T:        {
+2020-01-08T02:05:13.3446559+00:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-01-08T02:05:13.3456529+00:00:Thread#0:T:        }
+2020-01-08T02:05:13.3466496+00:00:Thread#0:B:And click on submit button
+2020-01-08T02:05:13.3466496+00:00:Thread#0:T:skipped because of previous errors
+2020-01-08T02:05:13.3466496+00:00:Thread#0:B:Then searching product page displayed.
+2020-01-08T02:05:13.3476500+00:00:Thread#0:T:skipped because of previous errors
+2020-01-08T02:05:13.3636301+00:00:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2020-01-08T02:05:13.3646245+00:00:Thread#0:T:using System;
+2020-01-08T02:05:13.3646245+00:00:Thread#0:T:using TechTalk.SpecFlow;
+2020-01-08T02:05:13.3656207+00:00:Thread#0:T:namespace MyNamespace
+2020-01-08T02:05:13.3656207+00:00:Thread#0:T:{
+2020-01-08T02:05:13.3656207+00:00:Thread#0:T:    [Binding]
+2020-01-08T02:05:13.3656207+00:00:Thread#0:T:    public class StepDefinitions
+2020-01-08T02:05:13.3666191+00:00:Thread#0:T:    {
+2020-01-08T02:05:13.3666191+00:00:Thread#0:T:        [When(@"i enter (.*) of my choice")]
+2020-01-08T02:05:13.3666191+00:00:Thread#0:T:        public void WhenIEnterOfMyChoice(string p0)
+2020-01-08T02:05:13.3676178+00:00:Thread#0:T:        {
+2020-01-08T02:05:13.3676178+00:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-01-08T02:05:13.3686162+00:00:Thread#0:T:        }
+2020-01-08T02:05:13.3686162+00:00:Thread#0:T:    }
+2020-01-08T02:05:13.3686162+00:00:Thread#0:T:}
+2020-01-08T02:05:13.3696153+00:00:Thread#0:Scheduler: get next test for thread 0
+2020-01-08T02:05:13.3696153+00:00:Thread#:Scheduler: at the end of normal test queue
+2020-01-08T02:05:13.3696153+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-01-08T02:05:13.3696153+00:00:Thread#0:Scheduler: No more tests for thread
+2020-01-08T02:05:17.1149578+00:00:Thread#0: Test #5/0 is finished on thread #0 as Pending within 27.843597 seconds
+2020-01-08T02:05:17.1992912+00:00:Trying to cancel thread
+2020-01-08T02:05:17.1992912+00:00:Thread cancelled
+2020-01-08T02:05:17.2172620+00:00:Thread#-1:Scheduler: get next test for thread -1
+2020-01-08T02:05:17.2182642+00:00:Thread#:Scheduler: at the end of normal test queue
+2020-01-08T02:05:17.2182642+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-01-08T02:05:17.2222578+00:00;Thread#13;Info;test run finished
+2020-01-08T02:05:17.2222578+00:00;Thread#13;Info;publishing test results
+2020-01-08T02:05:17.2411965+00:00;Thread#13;Info;test results published
+2020-01-08T02:05:17.2421962+00:00;Thread#13;Info;generating reports
+2020-01-08T02:05:17.6022886+00:00;Thread#13;Info;Starting external report generation process
+2020-01-08T02:05:22.8417348+00:00;Thread#13;Info;Successfully generated reports.
+2020-01-08T02:05:22.8467288+00:00;Thread#13;Info;Successfully generated reports
+2020-01-08T02:05:22.8686890+00:00:Total: 2
+2020-01-08T02:05:22.8736817+00:00:Succeeded: 0
+2020-01-08T02:05:22.8746800+00:00:Ignored: 0
+2020-01-08T02:05:22.8766817+00:00:Pending: 2
+2020-01-08T02:05:22.8766817+00:00:Skipped: 0
+2020-01-08T02:05:22.8786862+00:00:Failed: 0
+2020-01-08T02:05:22.9066315+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-01-08T02:05:22.9076327+00:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\c# project\Next.Co.Test.Uk\TestResults\Unnamed project__2020-01-08T020407.html'
+========== End of log file ==========
